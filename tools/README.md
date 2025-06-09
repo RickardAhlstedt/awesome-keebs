@@ -38,7 +38,7 @@ A curated list of tools and utilities to help you design, build, and program cus
 
 ## PCB & Schematic Design
 
-- [ErgoGen](https://github.com/egladman/ergogen)  
+- [ErgoGen](https://ergogen.xyz/)  
   A tool for generating ergonomic keyboard PCBs from YAML files.
 
 - [KiCad](https://kicad.org/)  

@@ -20,5 +20,9 @@ ZMK is a feature-rich firmware designed for wireless (Bluetooth Low Energy) and 
 - Focus on wireless and split keyboards
 - Declarative keymap configuration (Kconfig/Devicetree)
 
+## Tools
+
+## [POG for KMK](https://pog.janlunge.de/)
+
 ---
 Feel free to add more firmware projects or tools to this list!
