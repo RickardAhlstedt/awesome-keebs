@@ -45,5 +45,6 @@ This project is licensed under the [MIT License](LICENSE).
 - [Joe Scotto](https://www.youtube.com/@joe_scotto)
 
 ## Communities
+- [Scottokeebs](https://discord.gg/bz4k3PFueG)
 
 ## News & Blogs
