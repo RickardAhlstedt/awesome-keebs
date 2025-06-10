@@ -49,6 +49,13 @@ A curated list of tools and utilities to help you design, build, and program cus
 - [Keyboard Checker](https://keyboardchecker.com/)  
   Test your keyboard keys online to ensure all switches are working.
 
+## Tools For customizing OEM-keyboards
+
+- [Karabiner-elements](https://karabiner-elements.pqrs.org/)
+  [MAC] Customize the behaviour of your keyboard, supports conditional variables, mod-tap and more
+
+- [Autohotkey](https://www.autohotkey.com/)
+  [WIN] Scriptable hotkeys
 ---
 
 Feel free to contribute more tools or suggest improvements!

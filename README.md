@@ -43,6 +43,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Youtubers
 - [Joe Scotto](https://www.youtube.com/@joe_scotto)
+- [Jan Lunge](https://www.youtube.com/@JanLunge/featured)
 
 ## Communities
 - [Scottokeebs](https://discord.gg/bz4k3PFueG)
