@@ -51,10 +51,10 @@ A curated list of tools and utilities to help you design, build, and program cus
 
 ## Tools For customizing OEM-keyboards
 
-- [Karabiner-elements](https://karabiner-elements.pqrs.org/)
+- [Karabiner-elements](https://karabiner-elements.pqrs.org/)  
   [MAC] Customize the behaviour of your keyboard, supports conditional variables, mod-tap and more
 
-- [Autohotkey](https://www.autohotkey.com/)
+- [Autohotkey](https://www.autohotkey.com/)  
   [WIN] Scriptable hotkeys
 ---
 
