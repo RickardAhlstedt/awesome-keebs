@@ -56,6 +56,9 @@ A curated list of tools and utilities to help you design, build, and program cus
 
 - [Autohotkey](https://www.autohotkey.com/)  
   [WIN] Scriptable hotkeys
+
+- [Katana](https://github.com/jtroo/kanata)  
+  [WIN/MAC/LINUX] Cross-platform utility for customizing key and keybindings
 ---
 
 Feel free to contribute more tools or suggest improvements!
