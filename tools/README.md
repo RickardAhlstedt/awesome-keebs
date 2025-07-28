@@ -59,6 +59,14 @@ A curated list of tools and utilities to help you design, build, and program cus
 
 - [Katana](https://github.com/jtroo/kanata)  
   [WIN/MAC/LINUX] Cross-platform utility for customizing key and keybindings
+
+## Generators
+
+- [Hotswap PCB Generator](https://github.com/50an6xy06r6n/hotswap_pcb_generator/tree/main)
+
+- [Keyboard STL-generator](https://github.com/jeffminton/keyboard_stl_generator)
+
+
 ---
 
 Feel free to contribute more tools or suggest improvements!
