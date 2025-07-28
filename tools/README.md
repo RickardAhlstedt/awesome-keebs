@@ -36,6 +36,13 @@ A curated list of tools and utilities to help you design, build, and program cus
 - [Dactyl Generator](https://ryanis.cool/dactyl/)  
   Online generator for Dactyl-style ergonomic keyboards.
 
+- [Dometyl Generator](https://github.com/geoffder/dometyl-keyboard)
+  Online generator for dactyls that supports rubber-dome switches
+
+- [Another dactyl generator](https://github.com/joshreve/dactyl-keyboard)
+  Allows for hotswaps and oleds
+
+
 ## PCB & Schematic Design
 
 - [ErgoGen](https://ergogen.xyz/)  
@@ -66,7 +73,7 @@ A curated list of tools and utilities to help you design, build, and program cus
 
 - [Keyboard STL-generator](https://github.com/jeffminton/keyboard_stl_generator)
 
-
+- [Snakeskin - generate a case from KiCad edgecuts](https://github.com/BlueDrink9/keeb_snakeskin)
 ---
 
 Feel free to contribute more tools or suggest improvements!
