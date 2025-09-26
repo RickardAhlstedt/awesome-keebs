@@ -23,6 +23,9 @@
 - [CLP - Contoured Low Profile keycaps](https://github.com/vvhg1/clp-keycaps)  
   [MX] [Contoured]
 
+- [1.25u CLP](https://www.printables.com/model/857521-125u-clp-profile-keycaps)
+  [MX] [Contoured]
+
 ## DSA
 
 ## SA
